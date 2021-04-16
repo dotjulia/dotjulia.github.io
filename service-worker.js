@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5687e28baed6e07463bf0e71b8167b4c.js"
+  "/precache-manifest.239bb1416dd7d187d20e4358b59a0c2c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dnd-map-viewer"});
